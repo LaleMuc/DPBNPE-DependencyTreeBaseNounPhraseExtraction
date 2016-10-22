@@ -1,6 +1,6 @@
 ## Synopsis
 
-The RBBNPE (Rule based base noun phrase extraction) system extracts base noun phrases from a dependency tree in the CoNLL format.
+The DTBNPE (Dependency Tree Base Noun Phrase Extraction) system extracts base noun phrases from a dependency tree in the CoNLL format.
 It is written in JAVA and can be easily included in Natural Language Processing (NLP) projects.
 
 Evaluation on section 20 of the WSJ data set, taken from the CoNLL-2000 shared task, shows an F1-score of 95.8%
